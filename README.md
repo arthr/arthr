@@ -25,8 +25,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arthrmrs)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur&layout=compact&theme=radical)
+![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthr&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthr&layout=compact&theme=radical)
 
 ## 🎉 Temas e Interesses
 Além da tecnologia, me inspiro muito em jogos online, colecionáveis, e a cultura do TRAP nacional. 🤟🏾
