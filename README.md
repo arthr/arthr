@@ -7,7 +7,7 @@
 - **Linguagens e Frameworks**: PHP, NodeJS, Laravel, React, VueJs, Python, Java
 - **Containers e Orquestração**: Docker, Docker Compose, Kubernetes
 - **CI/CD e Infraestrutura como Código**: Jenkins, Pulumi
-- **Ferramentas de Build e Automação**: Gulp, Babel
+- **Ferramentas de Build e Automação**: Gulp, Babel, Webpack
 - **Cloud e Tecnologias AWS**: API Gateway, Lambda, ElasticBeanstalk
 - **Bancos de Dados**: Oracle, PostgreSQL, MongoDB, MSSQL, RedisCache
 - **Outras Tecnologias**: Arduino, PowerBI, RPA, Selenium
